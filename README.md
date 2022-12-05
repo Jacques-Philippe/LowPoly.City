@@ -31,7 +31,7 @@ In the definition of the following, it's helpful to remember how we want to sepa
 
 # What the end result looks like
 
-![End result](?)
+![End result](.docs/City.png)
 
 # What the end result should look like (roughly)
 
